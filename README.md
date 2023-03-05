@@ -4,5 +4,5 @@ OS resquirement: Windows.
 
 To run the project:
 git clone <this repositiory>
-Execute the TestSimulation.py file to send the model to the beta simulator server.
+Execute the TestSim.py file to send the model to the beta simulator server.
 Open beta_simulator.exe and run on automous mode
